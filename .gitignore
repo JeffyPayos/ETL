@@ -1,0 +1,7 @@
+data/
+*.geojson
+*.gpkg
+*.shp
+*.sqlite
+*.db
+*.zip
